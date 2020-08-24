@@ -1,4 +1,4 @@
-# scimaphic.github.io
+# hub.scimaphic.tech/~~hub.lab-termianl.tech~~
 
   Linkhub for my self
   
