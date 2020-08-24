@@ -1,4 +1,4 @@
-# hub.scimaphic.tech/~~hub.lab-termianl.tech~~
+# hub.scimaphic.tech/~~links.lab-termianl.tech~~
 
   Linkhub for my self
   
